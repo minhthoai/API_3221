@@ -29,7 +29,6 @@
 "dapan": "đáp án này",	
 "giai_thich": "đây là phần giải thích 3"	
 },
-{	
 "id" : "254",	
 "cauhoi" : "đây là câu hỏi 4",	
 "a" : "đây là đáp án a 4",	
@@ -38,5 +37,16 @@
 "d" : "đây là đáp án d 4",	
 "dapan": "đáp án này",	
 "giai_thich": "đây là phần giải thích 4"	
+},
+
+{	
+"id" : "255",	
+"cauhoi" : "đây là câu hỏi 5",	
+"a" : "đây là đáp án a 5",	
+"b": "đây là đáp án b 5",	
+"c": "đây là đán án c 5",	
+"d" : "đây là đáp án d 5",	
+"dapan": "đáp án này",	
+"giai_thich": "đây là phần giải thích 5"	
 }
 ]
