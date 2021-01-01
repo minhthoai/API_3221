@@ -1,0 +1,41 @@
+[	
+{	
+"id" : "251",	
+"cauhoi" : "đây là câu hỏi 1",	
+"a" : "đây là đáp án a 1",	
+"b": "đây là đáp án b 1",	
+"c": "đây là đán án c",	
+"d" : "đây là đáp án d",	
+"dapan": "đáp án này",	
+"giai_thich": "đây là phần giải thích"	
+},	
+{	
+"id" : "252",	
+"cauhoi" : "đây là câu hỏi 2",	
+"a" : "đây là đáp án a 2",	
+"b": "đây là đáp án b 2",	
+"c": "đây là đán án c",	
+"d" : "đây là đáp án d",	
+"dapan": "đáp án này",	
+"giai_thich": "đây là phần giải thích 2"	
+},	
+{	
+"id" : "253",	
+"cauhoi" : "đây là câu hỏi 3",	
+"a" : "đây là đáp án a 3",	
+"b": "đây là đáp án b 3",	
+"c": "đây là đán án c 3",	
+"d" : "đây là đáp án d 3",	
+"dapan": "đáp án này",	
+"giai_thich": "đây là phần giải thích"	
+},
+"id" : "254",	
+"cauhoi" : "đây là câu hỏi 4",	
+"a" : "đây là đáp án a 4",	
+"b": "đây là đáp án b 4",	
+"c": "đây là đán án c 4",	
+"d" : "đây là đáp án d 4",	
+"dapan": "đáp án này",	
+"giai_thich": "đây là phần giải thích"	
+}
+]
